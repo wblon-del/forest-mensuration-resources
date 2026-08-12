@@ -1,0 +1,16 @@
+Plot,Tree,Species,DBH_cm,Height_m,Status
+P01,1,Species_A,18.2,14.5,Live
+P01,2,Species_B,24.6,17.8,Live
+P01,3,Species_A,31.4,20.2,Live
+P01,4,Species_C,12.8,10.7,Live
+P01,5,Species_B,28.1,19.4,Live
+P02,1,Species_A,16.5,13.2,Live
+P02,2,Species_C,22.3,16.1,Live
+P02,3,Species_B,35.0,22.5,Live
+P02,4,Species_A,27.8,18.7,Live
+P02,5,Species_C,14.9,11.8,Live
+P03,1,Species_B,20.4,15.6,Live
+P03,2,Species_A,26.7,18.3,Live
+P03,3,Species_C,33.2,21.4,Live
+P03,4,Species_B,11.7,9.8,Live
+P03,5,Species_A,29.5,19.6,Live
