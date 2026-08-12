@@ -3,16 +3,13 @@
 A structured open educational resource for teaching **Forest Mensuration** in forestry lectures and practical field classes.
 
 ## Purpose
-
 This repository provides lecture notes, formulas, worked examples, field practicals, exercises, answer keys, and teaching aids for students and forestry practitioners.
 
 ## Learning outcomes
-
-By completing the materials, learners should be able to:
-
+Learners should be able to:
 - explain the principles and applications of forest mensuration;
 - measure tree diameter and circumference accurately;
-- measure tree height using common field instruments and methods;
+- measure tree height using common field methods;
 - calculate basal area and stand density;
 - estimate individual-tree and stand volume;
 - explain taper, tree form and form factor;
@@ -22,7 +19,6 @@ By completing the materials, learners should be able to:
 - collect, check and interpret field mensuration data.
 
 ## Course modules
-
 1. [Introduction to Forest Mensuration](01_introduction_to_forest_mensuration.md)
 2. [Tree Diameter and Circumference](02_tree_diameter_and_circumference.md)
 3. [Tree Height Measurement](03_tree_height_measurement.md)
@@ -34,28 +30,19 @@ By completing the materials, learners should be able to:
 9. [Biomass and Carbon Estimation](09_biomass_and_carbon.md)
 10. [Field Data Quality and Analysis](10_field_data_quality_and_analysis.md)
 
-## Practical classes
-
-- Diameter and circumference measurement
-- Tree height measurement
-- Basal-area measurement using angle gauges
-- Volume estimation
-- Stand inventory and sampling
-- Mensuration data recording and quality control
-
 ## Teaching aids
-
-- Formula sheet
+- [Formula Sheet](teaching_aids/formula_sheet.md)
 - Worked numerical examples
-- Student exercises
-- Answer key
+- Student exercises and answer key
 - Field data sheets
-- Glossary of forest mensuration terms
+- Glossary
+- Lecture slides and diagrams (to be expanded)
+
+## Practical classes
+Diameter and circumference measurement; tree height measurement; basal-area measurement; volume estimation; stand inventory and sampling; and mensuration data recording and quality control.
 
 ## Suggested use
+The resources can support classroom lectures, tutorials, laboratory sessions, field practicals, examinations and refresher training for forestry staff. Examples can be adapted to forestry education and field conditions in Bhutan.
 
-The resources can be used for classroom lectures, tutorials, laboratory sessions, field practicals, examinations and refresher training for forestry staff.
-
-## Scope and notes
-
-Examples are designed to be adaptable to forestry education and field conditions in Bhutan. Instrument-specific procedures should be checked against the manufacturer's guidance, and local institutional standards should be followed where applicable.
+## Note
+Operational inventories should follow the approved institutional measurement protocol, validated volume equations and locally appropriate allometric models.
